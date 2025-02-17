@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace VetPet_
 {
@@ -15,13 +16,20 @@ namespace VetPet_
         public Menu_AtencionAlCliente()
         {
             InitializeComponent();
+            //parentForm = parent;
         }
+
+        Menu_AtencionAlCliente_Dueños_Andryk MACDA;
 
         private Form1 parentForm;
 
         private void btnMascotas_Click(object sender, EventArgs e)
         {
-            parentForm.formularioHijo(new Mascotas_Angie(parentForm)); // Pasamos la referencia de Form1 a AlmacenInventarioProductos
+        }
+
+        private void btnDueños_Click(object sender, EventArgs e)
+        {
+           // parentForm.formularioHijo(new Menu_AtencionAlCliente_Dueños_Andryk(parentForm)); // Pasamos la referencia de Form1 a AlmacenInventarioProductos
         }
     }
 }
