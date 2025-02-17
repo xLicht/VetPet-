@@ -50,7 +50,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(239)))), ((int)(((byte)(216)))));
-            this.label1.Location = new System.Drawing.Point(332, 39);
+            this.label1.Location = new System.Drawing.Point(314, 41);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(429, 54);
             this.label1.TabIndex = 1;
@@ -71,7 +71,7 @@
             this.btnDueños.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.btnDueños.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDueños.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(83)))), ((int)(((byte)(25)))));
-            this.btnDueños.Location = new System.Drawing.Point(622, 242);
+            this.btnDueños.Location = new System.Drawing.Point(614, 201);
             this.btnDueños.Name = "btnDueños";
             this.btnDueños.Size = new System.Drawing.Size(222, 112);
             this.btnDueños.TabIndex = 0;
@@ -85,7 +85,7 @@
             this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(83)))), ((int)(((byte)(25)))));
-            this.button3.Location = new System.Drawing.Point(259, 453);
+            this.button3.Location = new System.Drawing.Point(251, 412);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(222, 112);
             this.button3.TabIndex = 0;
@@ -98,7 +98,7 @@
             this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(83)))), ((int)(((byte)(25)))));
-            this.button5.Location = new System.Drawing.Point(622, 453);
+            this.button5.Location = new System.Drawing.Point(614, 412);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(222, 112);
             this.button5.TabIndex = 0;
@@ -111,7 +111,7 @@
             this.btnMascotas.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.btnMascotas.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMascotas.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(83)))), ((int)(((byte)(25)))));
-            this.btnMascotas.Location = new System.Drawing.Point(259, 242);
+            this.btnMascotas.Location = new System.Drawing.Point(251, 201);
             this.btnMascotas.Name = "btnMascotas";
             this.btnMascotas.Size = new System.Drawing.Size(222, 112);
             this.btnMascotas.TabIndex = 0;
@@ -125,7 +125,7 @@
             this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.pictureBox1.BackgroundImage = global::VetPet_.Properties.Resources.iconoMascotaAndryk;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox1.Location = new System.Drawing.Point(397, 261);
+            this.pictureBox1.Location = new System.Drawing.Point(389, 220);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(75, 75);
             this.pictureBox1.TabIndex = 3;
@@ -136,7 +136,7 @@
             this.pictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.pictureBox2.BackgroundImage = global::VetPet_.Properties.Resources.iconoUsuarioAndryk;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Location = new System.Drawing.Point(760, 261);
+            this.pictureBox2.Location = new System.Drawing.Point(752, 220);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(75, 75);
             this.pictureBox2.TabIndex = 4;
@@ -147,7 +147,7 @@
             this.pictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.pictureBox3.BackgroundImage = global::VetPet_.Properties.Resources.iconoVentasAndryk;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox3.Location = new System.Drawing.Point(760, 468);
+            this.pictureBox3.Location = new System.Drawing.Point(752, 427);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(75, 75);
             this.pictureBox3.TabIndex = 5;
@@ -158,7 +158,7 @@
             this.pictureBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(175)))), ((int)(((byte)(129)))));
             this.pictureBox4.BackgroundImage = global::VetPet_.Properties.Resources.iconoCitasAndryk;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox4.Location = new System.Drawing.Point(397, 468);
+            this.pictureBox4.Location = new System.Drawing.Point(389, 427);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(75, 75);
             this.pictureBox4.TabIndex = 6;
@@ -181,6 +181,8 @@
             this.Controls.Add(this.btnMascotas);
             this.Name = "Menu_AtencionAlCliente";
             this.Text = "Menu_AtencionAlCliente";
+            this.Load += new System.EventHandler(this.Menu_AtencionAlCliente_Load);
+            this.Resize += new System.EventHandler(this.Menu_AtencionAlCliente_Resize);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

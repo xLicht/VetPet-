@@ -34,6 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(214)))), ((int)(((byte)(239)))), ((int)(((byte)(216)))));
             this.ClientSize = new System.Drawing.Size(1082, 577);
             this.Name = "Menu_AtencionAlCliente_Dueños_Andryk";
             this.Text = "Menu_AtencionAlCliente_Dueños_Andryk";
