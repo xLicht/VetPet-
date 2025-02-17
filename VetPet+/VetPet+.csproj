@@ -163,5 +163,17 @@
   <ItemGroup>
     <None Include="Resources\plus.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoCitasAndryk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoMascotaAndryk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoUsuarioAndryk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconoVentasAndryk.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -16,5 +16,12 @@ namespace VetPet_
         {
             InitializeComponent();
         }
+
+        private Form1 parentForm;
+
+        private void btnMascotas_Click(object sender, EventArgs e)
+        {
+            parentForm.formularioHijo(new Mascotas_Angie(parentForm)); // Pasamos la referencia de Form1 a AlmacenInventarioProductos
+        }
     }
 }
